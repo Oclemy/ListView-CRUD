@@ -3,7 +3,7 @@ package com.tutorials.hp.listview_crud;
 import java.util.ArrayList;
 
 /**
- * Created by Oclemy on 8/5/2016 for ProgrammingWizards Channel and http://www.camposha.com.
+ * Created by Oclemy for ProgrammingWizards TV Channel and https://www.camposha.info.
  */
 public class CRUD {
 
